@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: YoungSik-Dong
+title: YoungSikDong
 email: dys6621@naver.com
 description: 
 url: # the base hostname & protocol for your site
@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: YoungSik-Dong
+  avatar: portfolio.png
+  job: "Student"
+  bio: "Kangwon national University "
+  email: dys6621@naver.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: #profile.php?id=100007002969583
   google:
     plus: #username
     analytics:
