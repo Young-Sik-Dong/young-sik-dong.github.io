@@ -1,19 +1,4 @@
-- name: Creating a vending machine program
-  descr: First Program in the JSEA Club
+- name: Study FTL Algorithm
+  descr: 
   image: 
-  github: 
-  
-- name: 태백 상공회의소 주체 학생 발명 창의력 대회
-  descr: 19.5.11 첫 공모전 참여
-  image: 첫번째공모전.jpg
-  github: 
-  
-- name: 디지털성범죄 피해방지 아이디어 · R&D 기획 공모전
-  descr: 19.5.17 두번째 공모전 참여 우수상 수상
-  image: 2번째공모전.jpg
-  github: 
-  
-- name: 강원 ICT분야 SW작품 및 창의 아이디어 경진대회
-  descr: 19.11.19 세번째 공모전 참여 장려상 수상
-  image: 3번째공모전.jpg
   github: 
